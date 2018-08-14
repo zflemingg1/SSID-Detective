@@ -6,7 +6,7 @@ Simple Python tool to detect all available wireless networks within your local v
 
 In order to be able to use this tool, you will need a network adaptor that supports packet injection and monitor mode. 
 
-These are a couple that work out of the box with kali linux. 
+* These are a couple that work out of the box with kali linux. 
 	* Alfa AWUS036NEH 2.4 GHz
 	* Panda PAU05 2.4 GHz
 	* Alfa AWUS036NHA 2.4 GHz
